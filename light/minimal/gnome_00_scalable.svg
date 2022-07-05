@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   sodipodi:docname="gnome_00_scalable.svg"
+   width="1920"
+   height="1080"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:export-filename="gnome_00_1920x1080.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Android robot</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1670"
+     inkscape:window-height="1048"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.61047079"
+     inkscape:cx="929.61041"
+     inkscape:cy="578.24224"
+     inkscape:window-x="2170"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#3ddc84;}</style>
+  </defs>
+  <title
+     id="title6">Android robot</title>
+  <g
+     id="g1689">
+    <rect
+       style="fill:#d5d6db;fill-opacity:1;fill-rule:nonzero;stroke-width:104.97;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect835"
+       width="1920"
+       height="1080"
+       x="-7.4218752e-07"
+       y="5.2734376e-06" />
+    <path
+       style="fill:#33635c;fill-opacity:1;stroke:none;stroke-width:7.66277;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 0,432.61133 v 214.77539 h 1450.293 c -15.8438,-25.99459 -23.7113,-55.26288 -17.6153,-82.54102 3.9164,-17.53881 12.9694,-32.52674 24.9688,-44.91211 a 223.34498,204.05433 0 0 1 0.018,-0.16211 c -0.066,0.03 -0.1286,0.0644 -0.1953,0.0937 h -0.01 c -9.7069,4.27097 -18.6508,0.39086 -25.4356,-4.22461 -6.7848,-4.61546 -12.6302,-11.05915 -17.166,-18.62304 -4.5358,-7.56389 -7.831,-16.33274 -7.5937,-25.96094 0.2373,-9.6282 5.1466,-20.13954 14.5273,-26.62109 4.8561,-3.3533 10.5874,-5.39691 16.3457,-5.20313 h 0 c 5.7583,0.19379 10.9689,2.60986 14.8594,5.73828 1.8462,1.48454 3.4743,3.10635 4.9297,4.83008 -1.6473,-5.49012 -2.6679,-11.28364 -2.5606,-17.18945 z"
+       id="rect2943" />
+    <path
+       id="rect2945"
+       style="fill:#34548a;fill-opacity:1;stroke:none;stroke-width:6.77952;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 0 486.30469 L 0 647.38672 L 1450.293 647.38672 C 1434.4492 621.39213 1426.5817 592.12384 1432.6777 564.8457 C 1436.5941 547.30689 1445.6471 532.31896 1457.6465 519.93359 A 223.34498 204.05433 0 0 1 1457.6641 519.77148 C 1457.5979 519.80152 1457.5355 519.83584 1457.4688 519.86523 L 1457.459 519.86523 C 1447.7521 524.1362 1438.8082 520.25609 1432.0234 515.64062 C 1425.2386 511.02516 1419.3932 504.58147 1414.8574 497.01758 C 1412.8514 493.67237 1411.0902 490.09134 1409.7676 486.30469 L 0 486.30469 z " />
+    <path
+       id="path940"
+       style="fill:#8f5e15;fill-opacity:1;stroke:none;stroke-width:5.53547;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 0 540 L 0 647.38672 L 1450.293 647.38672 C 1434.4492 621.39213 1426.5817 592.12384 1432.6777 564.8457 C 1434.6757 555.89829 1438.0092 547.61403 1442.3887 540 L 0 540 z " />
+    <path
+       id="path949"
+       style="fill:#8c4351;fill-opacity:1;stroke:none;stroke-width:3.96588;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 0 593.69336 L 0 647.38672 L 1450.293 647.38672 C 1439.9376 630.39682 1432.9993 612.01157 1431.1328 593.69336 L 0 593.69336 z " />
+    <g
+       transform="matrix(2.914897,0,0,2.914897,1419.2641,367.64117)"
+       style="fill:#ebdbb2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+       id="g3771">
+      <g
+         style="fill:#343b58;fill-opacity:1"
+         id="g3773">
+        <path
+           d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
+           style="fill:#343b58;fill-opacity:1"
+           id="path3775" />
+        <path
+           d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
+           style="fill:#343b58;fill-opacity:1"
+           id="path3777" />
+        <path
+           d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
+           style="fill:#343b58;fill-opacity:1"
+           id="path3779" />
+        <path
+           d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 Z"
+           style="fill:#343b58;fill-opacity:1"
+           id="path3781" />
+        <path
+           d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 Z"
+           style="fill:#343b58;fill-opacity:1"
+           id="path3783" />
+      </g>
+    </g>
+  </g>
+</svg>

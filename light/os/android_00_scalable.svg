@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   sodipodi:docname="android-00.svg"
+   width="1920"
+   height="1080"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Android robot</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1670"
+     inkscape:window-height="1048"
+     id="namedview11"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.49472381"
+     inkscape:cx="829.7559"
+     inkscape:cy="400.22331"
+     inkscape:window-x="2170"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0"
+     inkscape:snap-intersection-paths="true"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#3ddc84;}</style>
+  </defs>
+  <title
+     id="title6">Android robot</title>
+  <g
+     id="g1049"
+     transform="translate(257.34851,1205.3346)">
+    <rect
+       style="fill:#d5d6db;fill-opacity:1;fill-rule:nonzero;stroke-width:104.97;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect835"
+       width="1920"
+       height="1080"
+       x="-257.34851"
+       y="-1205.3346" />
+    <path
+       id="rect2943"
+       style="fill:#33635c;fill-opacity:1;stroke:none;stroke-width:7.12245;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -257.34766,-772.72266 v 214.77539 H 1004.6562 l 0.1211,-1.45898 c 7.428,-88.8008 53.8796,-165.75454 123.2227,-213.31641 z" />
+    <path
+       id="rect2945"
+       style="fill:#34548a;fill-opacity:1;stroke:none;stroke-width:6.16822;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -257.34766,-719.0293 v 161.08203 H 1004.6562 l 0.1211,-1.45898 c 5.0672,-60.57676 28.2962,-115.64035 64.5606,-159.62305 z" />
+    <path
+       id="path940"
+       style="fill:#8f5e15;fill-opacity:1;stroke:none;stroke-width:5.03634;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -257.34766,-665.33398 v 107.38671 H 1004.6562 l 0.1211,-1.45898 c 3.1724,-37.92554 13.4662,-73.68979 29.6172,-105.92773 z" />
+    <path
+       id="path949"
+       style="fill:#8c4351;fill-opacity:1;stroke:none;stroke-width:3.56123;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -257.34766,-611.64062 v 53.69335 H 1004.6562 l 0.1211,-1.45898 c 1.501,-17.94435 4.6016,-35.402 9.1563,-52.23437 z" />
+    <path
+       class="cls-1"
+       d="m 1420.9146,-635.75369 a 22.740319,22.740319 0 1 1 22.7361,-22.7446 22.770313,22.770313 0 0 1 -22.7361,22.7446 m -251.3303,0 a 22.740319,22.740319 0 1 1 22.7359,-22.7446 22.766029,22.766029 0 0 1 -22.7359,22.7446 m 259.4846,-136.96897 45.4422,-78.70627 a 9.4560452,9.4560452 0 1 0 -16.3729,-9.46548 l -46.0164,79.70038 c -35.188,-16.06005 -74.7084,-25.00279 -116.8766,-25.00279 -42.1684,0 -81.6843,8.95559 -116.8724,25.00279 l -46.012,-79.70038 a 9.4546932,9.4546932 0 1 0 -16.3772,9.45263 l 45.4462,78.71912 c -78.0335,42.4426 -131.4069,121.44025 -139.2141,214.77539 h 546.0674 c -7.8156,-93.33514 -61.1849,-172.33279 -139.2142,-214.77539"
+       id="path8"
+       style="fill:#343b58;fill-opacity:1;stroke-width:0.428496" />
+  </g>
+</svg>
