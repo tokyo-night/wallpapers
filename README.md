@@ -30,3 +30,9 @@ zebra-stripes_00_scalable.svg
 ```
 
 Thanks to all who contribute! :pray:
+
+## Placing wallpapers
+| Folder Name | Description |
+| ----------- | ----------- |
+| night, storm, light | Contains wallpapers which adhere to the color scheme of their respective theme variant. |
+| misc | Contains wallpapers which match two or more of the theme variants. If the wallpaper doesn't fit in any specific variant, it probably belongs here. |
